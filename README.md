@@ -1,5 +1,5 @@
 # Musings from R1
-Students from BUSN30135 used R1 to answer a variety of questions ranging from valuing a [rare violin](r1-responses/stradivarius_violin_bid.md) to assessing the [market for teleportation]((r1-responses/teleportation_device_analysis.md)) to [logic puzzles](r1-responses/blue-eyed_islanders.md). This repo contains a handful of these questions, R1's chain of thought when answering, and R1's final response.
+Students from BUSN30135 used R1 to answer a variety of questions ranging from valuing a [rare violin](r1-responses/stradivarius_violin_bid.md) to assessing the [market for teleportation]((r1-responses/teleportation_device_analysis.md)) to [logic puzzles](r1-responses/blue-eyed_islanders.md). This repo contains a handful of these questions, R1's chain of thought, and R1's final response.
 
 ## Index of Q&As
 ### Government
